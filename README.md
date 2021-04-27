@@ -13,6 +13,7 @@
       * [Otomatis](#otomatis)
 * [Navigasi (WIP)](#navigasi-wip)
 * [Mapping (WIP)](#mapping-wip)
+* [Referensi](#referensi)
 * [Kontribusi](#kontribusi)
 
 <!-- vim-markdown-toc -->
@@ -105,6 +106,10 @@ call plug#end()
  
 # Navigasi (WIP)
 # Mapping (WIP)
+
+# Referensi
+* https://devhints.io/vimscript
+
 # Kontribusi
 
 Kamu bebas memberikan apapun, kritik, saran, atau meminta sesuatu (semoga bisa dibantu) 
