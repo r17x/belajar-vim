@@ -11,6 +11,8 @@
     * [vim-plug](#vim-plug)
       * [Manual](#manual)
       * [Otomatis](#otomatis)
+* [Navigasi (WIP)](#navigasi-wip)
+* [Mapping (WIP)](#mapping-wip)
 * [Kontribusi](#kontribusi)
 
 <!-- vim-markdown-toc -->
@@ -101,6 +103,8 @@ call plug#end()
 2. muat ulang konfigurasi vim atau neovim kamu `:source $MYVIMRC`
 3. tunggu sampai selesai dan selesai
  
+# Navigasi (WIP)
+# Mapping (WIP)
 # Kontribusi
 
 Kamu bebas memberikan apapun, kritik, saran, atau meminta sesuatu (semoga bisa dibantu) 
